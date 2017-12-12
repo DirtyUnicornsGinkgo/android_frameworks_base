@@ -82,6 +82,9 @@
     <!-- QS customizer -->
     <string name="reset_customizer">Reset order</string>
 
+    <!-- VPN -->
+    <string name="quick_settings_vpn_title">VPN</string>
+
     <!-- Navbar -->
     <string name="systemui_tuner_navbar_title">Layout</string>
     <string name="navigation_bar_format_title">Navbar format</string>
